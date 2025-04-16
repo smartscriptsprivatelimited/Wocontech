@@ -3,7 +3,7 @@
 **Client:** Wocontech  
 **Industry:** Technology & Business Consulting  
 **Technology Stack:** PHP, MySQL, WordPress, WooCommerce, Elementor, Astra Theme  
-**Website:** [wocontech.com](https://wocontech.com)
+**Website:** [wocontech.com](https://wocontech.com)  
 **Project Type:** Business Blog Website  
 **Role:** Design and Development Partner  
 **Challenge:** User-Centric Blog Design for a Technical Audience  
